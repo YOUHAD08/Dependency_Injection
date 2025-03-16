@@ -1,0 +1,2 @@
+net.youhad.extension.DaoImplv2
+net.youhad.service.IServiceImpl
